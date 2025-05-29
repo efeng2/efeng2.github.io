@@ -1,2 +1,2 @@
 # timeline
-My Timeline Collective
+My Timeline
