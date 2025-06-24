@@ -1,4 +1,5 @@
 [
+  { "date": "June 2025", "title": "Joined NICE-NLP", "url": "https://nice-nlp.github.io/" },
   { "date": "May 2025", "title": "Founded StarWeaving Research Group", "url": "https://www.xiaohongshu.com/user/profile/669ce353000000002401dc85?xsec_token=YBTtn82nlya8Sg-nrazFaUw7QWuofC6CDO7bvZyzyfdB4=&xsec_source=app_share&xhsshare=CopyLink&appuid=669ce353000000002401dc85&apptime=1748510259&share_id=5314946623294a838b02ee2b0bdd1949" },
   { "date": "May 2025", "title": "Hugging Face Agents Certification", "url": "https://huggingface.co/spaces/agents-course/Unit4-Final-Certificate/discussions/55#68344ff5015eb190580dc1f9" },
   { "date": "May 2025", "title": "Deployed ReACT model for GAIA benchmark, qwen3:8b hosted on ollamas", "url": "https://huggingface.co/spaces/efeng2/gaia_agent/tree/main" },
